@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#fancy-about-header {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.single-text-header {
+    background-color: gray;
+    padding-top: 20px;
+}
+
+.gray-page {
+    background-color: lightgray;
+}
