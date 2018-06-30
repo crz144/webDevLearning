@@ -43,6 +43,10 @@ h1, h2, h3 {
     border: none;
 }
 
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
 #login-image-background {
     background-image: url(https://www.hermanmiller.com/content/dam/hmicom/page_assets/about/our_values/community_service/it_abt_community_service.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
